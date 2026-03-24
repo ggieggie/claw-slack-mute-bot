@@ -1,0 +1,16 @@
+{
+  "name": "claw-slack-mute-bot",
+  "version": "1.0.0",
+  "description": "OpenClaw agent mute/unmute controller for Slack (unbind/bind)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@slack/bolt": "^4.1.0"
+  }
+}
